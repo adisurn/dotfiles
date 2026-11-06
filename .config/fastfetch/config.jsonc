@@ -1,0 +1,24 @@
+{
+  "$schema": "https://github.com",
+  "logo": {
+    "type": "small",
+    "padding": {
+      "top": 1,
+      "right": 2
+    }
+  },
+  "display": {
+    "separator": " • ",
+    "key": {
+      "width": 8
+    }
+  },
+  "modules": [
+    "title",
+    "break",
+    "os",
+    "kernel",
+    "uptime",
+    "memory"
+  ]
+}
