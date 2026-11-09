@@ -6,7 +6,7 @@ local item_padding = 10
 -- The bar matches the menu bar under the notch (32 pt on this
 -- MacBook, NSScreen.safeAreaInsets.top) so it covers it fully; the
 -- pills take nearly all of it, so they end level with the notch.
-local bar_height = 32
+local bar_height = 75
 local height = shape.height -- item pill height
 local size = 13.5
 -- Define default item properties

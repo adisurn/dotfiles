@@ -1,7 +1,7 @@
 # Written by the sketchybar theme picker (looks.lua). Local, not in git.
-background = #1a1b26
-cursor-color = #7aa2f7
-cursor-text = #1a1b26
-selection-background = #7aa2f7
-selection-foreground = #1a1b26
-split-divider-color = #7aa2f7
+background = #000000
+cursor-color = #64d2ff
+cursor-text = #000000
+selection-background = #64d2ff
+selection-foreground = #000000
+split-divider-color = #64d2ff
